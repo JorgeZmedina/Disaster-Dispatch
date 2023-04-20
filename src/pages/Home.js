@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Route, Link } from "react-router-dom";
 
+import '../styles/Home.css'
 
 function Home() {
 
@@ -8,6 +9,7 @@ function Home() {
         <div>
 
             <h1>HOME</h1>
+
 
         </div>
     );

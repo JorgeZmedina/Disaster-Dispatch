@@ -4,6 +4,7 @@ import Navbar from "../components/Navbar";
 // add footer here and set it under outlet
 
 const Layout = () => {
+
     return (
         <>
             <Navbar />
