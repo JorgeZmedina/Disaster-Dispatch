@@ -131,7 +131,7 @@ nav li a:hover {
     display: flex;
     justify-content: flex-end;
   }
-}
+
 
 @media screen and (max-width: 900px) {
   .logo {
@@ -153,5 +153,4 @@ nav li a:hover {
   nav li {
     margin-left: 0.5rem;
   }
-}
 }
